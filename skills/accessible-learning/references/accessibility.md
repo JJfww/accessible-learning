@@ -8,7 +8,7 @@
 ## Slide decks
 
 - Check for a clear purpose and one main idea per slide or intentional visual grouping.
-- Check readable type, contrast, uncluttered layouts, non-color cues, meaningful link text, and accessible charts or diagrams.
+- Check font legibility, size relative to intended screen size and viewing distance, contrast, uncluttered layouts, non-color cues, meaningful link text, and accessible charts or diagrams. Ask whether the deck is projected, viewed individually, delivered virtually, or printed before judging size.
 - Ensure important visual information is conveyed in speech, notes, or supporting text. Provide participation alternatives for polls, small-group tasks, live demonstrations, and timed work.
 - Flag source-file checks: slide titles, reading order, alternative text, built-in layouts, hyperlink targets, and exported-PDF tags.
 

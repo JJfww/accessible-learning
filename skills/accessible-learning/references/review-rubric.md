@@ -6,6 +6,10 @@ Use this rubric for adult-facing learning materials. Give priority to barriers t
 
 Check whether learners can perceive, navigate, understand, and use the material with varied access needs. Look for clear structure, meaningful text alternatives, descriptive links, contrast and readable type, non-color cues, predictable navigation, and alternatives to audio-only, visual-only, or time-dependent interaction.
 
+## Visual readability and legibility
+
+Check whether type can be read comfortably in its intended setting. Assess font legibility, size in relation to screen size and viewing distance, contrast, line length, line spacing, density, and clear hierarchy. For slides, ask whether they will be projected, viewed on individual screens, shared virtually, or printed; do not judge size without that context. Flag decorative or ambiguous type, text-heavy layouts, all-caps passages, and visual meaning conveyed only by color, position, or tiny labels.
+
 ## UDL
 
 Check for purposeful options in engagement, representation, and action or expression. Do not call for every option in every artifact; judge whether the option is relevant to the barrier and goal.
