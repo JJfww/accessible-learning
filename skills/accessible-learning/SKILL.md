@@ -26,10 +26,11 @@ If essential context is missing, ask only for the audience, format, objective, a
 
 1. Identify what is inspectable and name the limits of the review.
 2. Read `references/review-rubric.md` and assess the artifact against the shared criteria plus its format-specific checks.
-3. Report two to five strengths before findings.
-4. Prioritize findings as **Critical**, **Important**, or **Enhancement**. For each finding, provide evidence, learner impact, and a specific revision.
-5. Separate observable content issues from items that require testing in the source file, learning platform, or with assistive technology.
-6. Offer a targeted revision when useful; do not rewrite the full artifact unless asked.
+3. For slide decks, inspect the actual text-object font sizes before reporting results. Classify each small-text item as participant-facing, footer, source, or presenter-only metadata; never assume it is acceptable because it appears decorative.
+4. Report two to five strengths before findings.
+5. Prioritize findings as **Critical**, **Important**, or **Enhancement**. For each finding, provide evidence, learner impact, and a specific revision.
+6. Separate observable content issues from items that require testing in the source file, learning platform, or with assistive technology.
+7. Offer a targeted revision when useful; do not rewrite the full artifact unless asked.
 
 ## Output format
 

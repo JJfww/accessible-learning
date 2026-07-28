@@ -8,7 +8,11 @@ Check whether learners can perceive, navigate, understand, and use the material 
 
 ## Visual readability and legibility
 
-Check whether type can be read comfortably in its intended setting. Assess font legibility, size in relation to screen size and viewing distance, contrast, line length, line spacing, density, and clear hierarchy. For slides, ask whether they will be projected, viewed on individual screens, shared virtually, or printed; do not judge size without that context. Flag decorative or ambiguous type, text-heavy layouts, all-caps passages, and visual meaning conveyed only by color, position, or tiny labels.
+Check whether type can be read comfortably in its intended setting. Assess font legibility, size in relation to screen size and viewing distance, contrast, line length, line spacing, density, and clear hierarchy. For slides, ask whether they will be projected, viewed on individual screens, shared virtually, or printed; do not judge size without that context.
+
+For projected adult-learning decks, use **20pt as the default minimum for participant-facing text**. Treat 16–19pt participant-facing text as an Important finding and text below 16pt as Critical unless a clearly stated, tested viewing context supports it. Do not excuse small text because it is a label, citation, or footer: enlarge it, move nonessential detail to presenter notes or an accessible handout, or explicitly flag the residual barrier. Inspect actual text-object sizes and report the affected elements rather than relying only on a rendered visual impression.
+
+Flag decorative or ambiguous type, text-heavy layouts, all-caps passages, and visual meaning conveyed only by color, position, or tiny labels.
 
 ## UDL
 
