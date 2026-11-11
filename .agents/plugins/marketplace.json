@@ -1,0 +1,12 @@
+{
+  "name": "accessible-learning",
+  "interface": { "displayName": "Accessible Learning" },
+  "plugins": [
+    {
+      "name": "accessible-learning",
+      "source": { "source": "url", "url": "https://github.com/JJfww/accessible-learning.git" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "accessible-learning",
+  "version": "0.1.1",
+  "description": "Design and review adult learning materials for accessibility, Universal Design for Learning (UDL), inclusive design, and adult-learning quality.",
+  "author": {
+    "name": "Jennifer Burnes",
+    "url": "https://github.com/JJfww"
+  },
+  "homepage": "https://github.com/JJfww/accessible-learning",
+  "repository": "https://github.com/JJfww/accessible-learning",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["accessibility", "wcag", "udl", "universal-design-for-learning", "adult-learning", "instructional-design", "professional-development"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Accessible Learning",
+        "shortDescription": "Design and review inclusive adult learning.",
+        "longDescription": "Create and review adult-facing learning materials, including slide decks, documents, PDFs, e-learning, and workshops, for accessibility, Universal Design for Learning, inclusive design, and instructional quality.",
+        "developerName": "Jennifer Burnes",
+        "category": "Productivity",
+        "capabilities": [],
+        "websiteURL": "https://github.com/JJfww/accessible-learning",
+        "defaultPrompt": [
+          "Use Accessible Learning to review this slide deck for accessibility, UDL, and adult-learning design. Prioritize the five most important improvements.",
+          "Use Accessible Learning to help me design an accessible staff training on this topic."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "accessible-learning",
+  "description": "Accessible Learning plugin by Jennifer Burnes",
+  "owner": {
+    "name": "Jennifer Burnes",
+    "url": "https://github.com/JJfww"
+  },
+  "plugins": [
+    {
+      "name": "accessible-learning",
+      "source": "./",
+      "description": "Design and review adult learning materials for accessibility, UDL, and adult-learning quality."
+    }
+  ]
+}

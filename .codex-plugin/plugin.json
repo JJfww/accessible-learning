@@ -1,16 +1,17 @@
 {
   "name": "accessible-learning",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Design and review adult learning for accessibility, UDL, and inclusion.",
   "author": {
-    "name": "Accessible Learning Contributors"
+    "name": "Jennifer Burnes",
+    "url": "https://github.com/JJfww"
   },
   "skills": "./skills/",
   "interface": {
     "displayName": "Accessible Learning",
     "shortDescription": "Design and review inclusive adult learning.",
     "longDescription": "Create and review adult-facing learning materials for accessibility, Universal Design for Learning, inclusive design, and instructional quality.",
-    "developerName": "Accessible Learning Contributors",
+    "developerName": "Jennifer Burnes",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": "Use Accessible Learning to review this adult-learning material for accessibility, UDL, and instructional design."

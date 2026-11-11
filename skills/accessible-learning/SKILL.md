@@ -43,9 +43,11 @@ If essential context is missing, ask only for the audience, format, objective, a
 
 ## Format routing
 
-- For `.pptx`, slide decks, or presentations, use the Presentations skill to inspect and render the artifact. Read `references/accessibility.md` before reviewing.
-- For `.docx` or Word materials, use the Documents skill and inspect both semantic structure and rendered appearance.
-- For PDFs, use the PDF skill. Distinguish visible-content review from tagged-PDF and reading-order verification.
+Use whatever slide, document, or PDF tools are available in your environment to open, inspect, and render the artifact. If none can open the file, review what the user can paste or describe, and say what could not be inspected.
+
+- For `.pptx`, Google Slides, or other presentations, inspect and render the slides, and read actual text-object sizes. Read `references/accessibility.md` before reviewing.
+- For `.docx`, Google Docs, or other documents, inspect both semantic structure and rendered appearance.
+- For PDFs, distinguish visible-content review from tagged-PDF and reading-order verification.
 - For e-learning or web-delivered modules, inspect the visible flow and source where available; reserve keyboard, focus, caption, and screen-reader conformance claims for actual testing.
 
 ## Boundaries

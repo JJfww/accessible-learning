@@ -1,0 +1,13 @@
+{
+  "name": "accessible-learning",
+  "version": "0.1.1",
+  "description": "Design and review adult learning materials for accessibility, Universal Design for Learning (UDL), inclusive design, and adult-learning quality.",
+  "author": {
+    "name": "Jennifer Burnes",
+    "url": "https://github.com/JJfww"
+  },
+  "homepage": "https://github.com/JJfww/accessible-learning",
+  "repository": "https://github.com/JJfww/accessible-learning",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["accessibility", "wcag", "udl", "adult-learning", "instructional-design"]
+}

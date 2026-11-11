@@ -1,0 +1,29 @@
+name: Pilot feedback
+description: Tell us how Accessible Learning worked for you.
+title: "Feedback: "
+labels: ["pilot feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for trying Accessible Learning. **Do not include confidential learner, student, or organizational information.**
+  - type: dropdown
+    id: artifact
+    attributes:
+      label: What did you design or review?
+      options: [Slide deck, Document or handout, PDF, E-learning module, Workshop or facilitator guide, Course outline, Other]
+    validations: { required: true }
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Which tool did you use it in?
+      options: [Codex, ChatGPT, Claude Code, Claude, Other]
+  - type: textarea
+    id: useful
+    attributes:
+      label: What feedback was useful?
+  - type: textarea
+    id: missing
+    attributes:
+      label: What was missing, wrong, or impractical in your setting?
+    validations: { required: true }
